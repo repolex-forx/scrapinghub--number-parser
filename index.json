@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "number-parser",
+  "versions": [
+    {
+      "commit": "a1263578628a7743054879095e50532fba1cdb67",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:05:44.469416+00:00"
+    }
+  ]
+}
